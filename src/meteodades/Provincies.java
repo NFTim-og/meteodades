@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 class Provincies {
 
-    int codi_provincie;
-    String nom_provincie;
+    int codi_provincia;
+    String nom_provincia;
 }
 
 public class Provincies {
@@ -35,23 +35,4 @@ public class Provincies {
         }
         return null;
     }
-}
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
